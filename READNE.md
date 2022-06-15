@@ -1,0 +1,1 @@
+To build this application simply use dotnet run inside cloned catalog. .NET 6 is required to run.
